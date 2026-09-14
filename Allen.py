@@ -1,0 +1,1 @@
+print("the shortest distance between two points is the straight line")

@@ -1,0 +1,1 @@
+print("beast of luck")
