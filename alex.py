@@ -1,0 +1,6 @@
+print("jsd 3rd betch")
+print("every one is owesome")
+print("please do best for the team")
+print("in the next time we will do better")
+print("all the charecters are good and we will do better in the next time")
+print("any one please do not give up")
